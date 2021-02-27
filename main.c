@@ -2,6 +2,6 @@
 #include <stdlib.h>
 int main()
 {
-    system ("firefox doska.html");
+    system ("firefox chessviz.html");
     return 0;
 }
